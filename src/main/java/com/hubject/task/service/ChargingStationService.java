@@ -75,7 +75,6 @@ public class ChargingStationService {
         return value * Math.PI / 180;
     }
 
-    // Get list of charging stations
     public Optional<ChargingStation> getChargingStation(String id) {
         return chargingStationRepo.findByStationId(id);
     }
