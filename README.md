@@ -1,4 +1,4 @@
-##Running the application
+## Running the application
 Start the application with: `gradle bootRun`
 and then the application will run at http://localhost:8080
 
