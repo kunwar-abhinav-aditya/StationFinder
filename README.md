@@ -1,3 +1,7 @@
+##Running the application
+Start the application with: `gradle bootRun`
+and then the application will run at http://localhost:8080
+
 ## About the project
 This is a simple application to deal with charging stations.
 You can add, edit or remove charging stations.
