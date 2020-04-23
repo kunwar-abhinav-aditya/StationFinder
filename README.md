@@ -1,3 +1,10 @@
+## About the project
+This is a simple application to deal with charging stations.
+You can add, edit or remove charging stations.
+The application uses an in-memory H2 database.
+
+There is an implementation of the Haversine's formula for calculating the distance between two charging stations based on their real coordinates, and that can be something interesting for you.
+
 ## API Endpoints
 
 ### GET /stations

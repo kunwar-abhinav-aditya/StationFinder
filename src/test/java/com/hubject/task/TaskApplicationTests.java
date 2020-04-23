@@ -1,4 +1,4 @@
-package com.hubject.task;
+package com.stationfinder.task;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

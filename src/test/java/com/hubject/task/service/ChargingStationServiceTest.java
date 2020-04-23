@@ -1,8 +1,8 @@
-package com.hubject.task.service;
+package com.stationfinder.task.service;
 
-import com.hubject.task.dao.ChargingStationRepo;
-import com.hubject.task.model.ChargingStation;
-import com.hubject.task.model.Geolocation;
+import com.stationfinder.task.dao.ChargingStationRepo;
+import com.stationfinder.task.model.ChargingStation;
+import com.stationfinder.task.model.Geolocation;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
